@@ -1,12 +1,16 @@
 # Jogo-da-Forca Amanda e Bryan
 
-##Diagrama de Classe
+## Diagrama de Caso de Uso
 
 
-##digrama de Caso de Uso
+
+## Digrama de Caso de Uso
 
 
-##diagrama de Atividade
+
+## Diagrama de Atividade
 
 
-##Documentação
+
+## Documentação
+

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jogo da Forca</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht=device-widht, initial-scale=1.0"/>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <div id="game">
+        <div id="left">
+            <canvas id="canvas" width="400" height="400"></canvas>
+            <button id="restart" onclick="restart()">Reiniciar</button>
+        </div>
+        <div id="right">
+            <div id="word"></div>
+            <div id="guesses">
+                <div id="row1" class="keyboard-row"></div>
+                <div id="row2" class="keyboard-row"></div>
+                <div id="row3" class="keyboard-row"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
